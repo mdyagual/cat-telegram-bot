@@ -80,5 +80,6 @@ public class TelegramBotContent {
     public static final String FINAL_TEXT = """
             *Gato Hacker, nivel cinco.*
             El día no pasó en vano: el gato hacker tomó medidas y ganó el respeto de los gatos callejeros locales.
+            Ahora es momento de la siesta.
             """;
 }
